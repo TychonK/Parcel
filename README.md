@@ -1,2 +1,2 @@
 # webpack
- webpack sterter kit. customly made ny TychonK
+ WebPack sterter kit. Customly made ny TychonK
