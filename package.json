@@ -1,7 +1,7 @@
 {
-  "name": "parcel",
+  "name": "parcel-starter-kit",
   "version": "1.0.0",
-  "description": "webpack sterter kit. customly made ny TychonK",
+  "description": "parcel starter kit. customly made by TychonK",
   "homepage": "https://TychonK.github.io/parcel",
   "source": "./src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
