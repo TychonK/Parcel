@@ -1,2 +1,2 @@
-# webpack
- WebPack sterter kit. Customly made ny TychonK
+# Parcel
+Parcel sterter kit. Customly made by TychonK
