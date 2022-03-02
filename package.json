@@ -2,7 +2,7 @@
   "name": "parcel-starter-kit",
   "version": "1.0.0",
   "description": "parcel starter kit. customly made by TychonK",
-  "homepage": "https://TychonK.github.io/parcel",
+  "homepage": "https://TychonK.github.io/parcel-starter-kit",
   "source": "./src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
