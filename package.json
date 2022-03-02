@@ -8,7 +8,7 @@
   "scripts": {
     "start": "parcel",
     "prebuild": "rm -rf dist",
-    "build": "parcel build"
+    "build": "parcel build --public-url ./"
   },
   "keywords": [],
   "author": "",
