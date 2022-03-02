@@ -1,5 +1,5 @@
 import SimpleParallax from "simple-parallax-js";
 
-const images = querySelectorAll('img');
+const images = document.querySelectorAll('img');
 
-new SimpleParallax(images)
+new SimpleParallax(images, {orientation: "down"})
