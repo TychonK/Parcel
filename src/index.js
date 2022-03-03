@@ -1,5 +1,5 @@
-import SimpleParallax from "simple-parallax-js";
+console.log('hello world!')
 
-const images = document.querySelectorAll('img');
+const date = new Date()
 
-new SimpleParallax(images, {orientation: "down"})
+console.log(date)
