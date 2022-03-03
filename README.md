@@ -11,8 +11,7 @@ SASS preproccessor is set by default for stylization. No need for any additional
 An LTS-version of [Node.js](https://nodejs.org/en/) with all additional tools except for **Chocolatey** (this is not nessesary) has to be installed on your PC. 
 
 ### Hidden files and folders
-Turn on showing hidden files and folders in your public opinion explorer, otherwise you won't
-you can select and find project settings files whose names begin with points of view.
+Turn on the display of hidden files and folders in the explorer of your operating system, otherwise you will not be able to select and copy project settings files whose names begin with a period.
 
 ### Finally
 Install all dependencies once per project
@@ -53,10 +52,9 @@ After certain period of time, live page will be available by the link noted in t
 [https://TychonK.github.io/parcel-starter-kit](https://TychonK.github.io/parcel-starter-kit).
 
 ## Deployment
-The kit will automatically build and deploy the production version of the project to github-pages branch, every time when the main branch is updated. For example, after a direct commit or an accepted pull-request. 
+The kit will automatically build and deploy the production version of the project to `github-pages` branch, every time when the main branch is updated. For example, after a direct commit or an accepted pull-request. 
 
 ## Files and folders work
-
 - All styles partials have to be located at `src/sass` 
   and be imported at `src/sass/main.scss`
 - Images should be added to `src/images`, optimize them in advance.
