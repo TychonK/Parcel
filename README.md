@@ -8,7 +8,7 @@ SASS preproccessor is set by default for stylization. No need for any additional
 ## Before starting work
 
 ### Dependencies
-An LTS-version of [Node.js](https://nodejs.org/en/) with all additional tools except for **Chocolatey** (this is not nessesary) has to be installed on your PC. 
+An LTS-version of [Node.js](https://nodejs.org/en/) with all additional tools except for **Chocolatey** (this is not necessary) has to be installed on your PC. 
 
 ### Hidden files and folders
 Turn on the display of hidden files and folders in the explorer of your operating system, otherwise you will not be able to select and copy project settings files whose names begin with a period.
