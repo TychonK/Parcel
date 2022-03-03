@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,QAAQC,IAAI,gBAEZ,MAAMC,EAAO,IAAIC,KAEjBH,QAAQC,IAAIC","sources":["src/index.js"],"sourcesContent":["console.log('hello world!')\n\nconst date = new Date()\n\nconsole.log(date)"],"names":["console","log","$1f0dc3b9307be026$var$date","Date"],"version":3,"file":"index.dbb60925.js.map"}
